@@ -49,10 +49,11 @@ Driven by curiosity, initiative, and a strong work ethic, I remain committed to 
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="30"/>
     </td>
   </tr>
-</table>
+  </table>
 
 
 ## 📊 GitHub Analytics
+<br>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kokilap03sl&theme=radical" alt="GitHub Streak" /><br><br>
@@ -60,6 +61,7 @@ Driven by curiosity, initiative, and a strong work ethic, I remain committed to 
   &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kokilap03sl&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+<br>
 
 
 ## 🌐Connect with Me
@@ -82,3 +84,4 @@ Driven by curiosity, initiative, and a strong work ethic, I remain committed to 
     </span>
   </i>
 </p>
+<br>
