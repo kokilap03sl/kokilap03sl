@@ -4,7 +4,7 @@
 </p>
 
 
-## 👩🏽‍💻About Me
+## 👩🏽‍💻Bio
 
 I am Kokila Perera, an undergraduate at NSBM Green University pursuing a BSc (Honours) in Computer Security in partnership with Plymouth University. I am passionate about the field of cybersecurity- particularly ethical hacking- and I am continually seeking hands- on experience to deepen my technical expertise.
 
